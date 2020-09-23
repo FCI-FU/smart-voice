@@ -1,0 +1,7 @@
+pygame
+PyQt5
+pyaudio
+wave
+google
+SpeechRecognition
+bs4
